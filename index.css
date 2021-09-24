@@ -51,8 +51,8 @@ ul {
     text-align: center;
     overflow: hidden;
     background-color:#5FCE5D;
-    width: 80%;
-    font-family: 'Courier New', Courier, monospace;
+    width: 90%;
+    font-family: cursive;
 }
 input {
     width: 50%;
@@ -108,11 +108,13 @@ button:hover {
 li {
     list-style-type: none;
 }
-ol {
+/*nav{
     display: flex;
     float: inline-start;
     padding: 5px;
-}
+    position: fixed;
+    top: 0;
+} */
 .span-about {
     text-align: center;
     display: block;
