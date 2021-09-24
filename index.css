@@ -20,6 +20,12 @@ a {
     font: medium;
     
 }
+#communication {
+    color: black;
+    font-family: sans-serif;
+    font-size: large;
+    font-style: italic;
+}
 a:hover {
     cursor: pointer;
     color: #EA6F6F;
