@@ -31,8 +31,8 @@ li a:hover {
     display: flex;
 }
 .pic-num2 {
-    margin-left: 5%;
     padding: 30px 35px;
+    display: flex;
 }
 ul {
     text-decoration: none;
