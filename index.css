@@ -28,6 +28,7 @@ li a:hover {
   }
 #pic-num1 {
     margin-left: 7%;
+    display: flex;
 }
 #pic-num2 {
     margin-left: 2%;
@@ -94,7 +95,6 @@ button:hover {
     border:1px solid black;
     padding:10px; 
     color: #5FCE5D;
-    border-radius: 5% 5%;
 }
 li {
     list-style-type: none;
