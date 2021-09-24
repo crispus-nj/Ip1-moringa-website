@@ -117,3 +117,7 @@ ol {
 #link-p {
     color: blue;
 }
+#link-p:hover {
+    cursor: pointer;
+    color: #EA6F6F;
+}
