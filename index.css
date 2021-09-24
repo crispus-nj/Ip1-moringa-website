@@ -1,5 +1,6 @@
 body {
     background-color: #E9EFC4;
+    font-family: sans-serif;
 }
 
 form {
@@ -68,7 +69,8 @@ button {
     font-weight: 700;
     width: 20%;
     border-radius: 15px;
-    color: red;
+    color: white;
+    background-color: #BE3737;
 }
 button:hover {
     color: #EA6F6F;
