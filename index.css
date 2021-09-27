@@ -132,3 +132,6 @@ li {
     cursor: pointer;
     color: #EA6F6F;
 }
+.pic {
+    border-radius: 450%;
+}
